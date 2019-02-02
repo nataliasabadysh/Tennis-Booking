@@ -18,7 +18,7 @@ const BookingView = () => {
                 <td>Bob</td>
                 <td>10:10</td>
                 <td>
-                    {/* <button type='button'> Save </button> */}
+                    <button type='button'> Add New Game </button>
                 </td>
             </tr> 
      </table>
